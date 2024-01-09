@@ -53,7 +53,7 @@ Just to clarify, my full name is Jesús Gerardo Esquivel Ramírez from <strong>E
 <div align="center">
 <a href="https://github.com/DarkKingpro10/E-Dream" target="_blank"><img src="./images/e-dream.jpg" width="400" alt="E-Dream gestor de inventario"></a>
 <p>
-<a href="https://github.com/DarkKingpro10/E-Dream" target="_blank">
+<a href="https://github.com/DarkKingpro10/E-Dream" >
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=ylhC2c7gzkc" target="_blank">
@@ -111,7 +111,7 @@ Just to clarify, my full name is Jesús Gerardo Esquivel Ramírez from <strong>E
 <br>
 
 <div align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/DarkKingpro10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarkKingpro10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkKingpro10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
