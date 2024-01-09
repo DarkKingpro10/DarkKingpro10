@@ -117,5 +117,14 @@ Just to clarify, my full name is Jesús Gerardo Esquivel Ramírez from <strong>E
 </a>
 </div>
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+<li>
+<a href="mailto:jesusesquivelprivado.19@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  jesusesquivelprivado.19-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
 ##Finally you discover Why Darkking
 >So basically, I create this account as DarkKing because at first time I want to be anonymous and have a personal account, but then my friends start to call me like DarkKing, now thay all are gone, so to remember the good all days, I conserve this account as mine, and the number 10 is for Messi. I hope you didn't scroll down just to find out why.
