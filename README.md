@@ -74,9 +74,6 @@ Just to clarify, my full name is Jesús Gerardo Esquivel Ramírez from <strong>E
 <a href="https://github.com/DarkKingpro10/despacho-contable-ptc" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://drive.google.com/file/d/1Xn_6-H10UvQEVeDz4dur1HrE1pPS14ur/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/-Drive-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
 </p>Smart Bookkeeping or SmartBook is an administrative web application designed by students, SmartBook was designed to help companies that manage various files for various companie; The program is designed for any company that wants to manage the various files of various companies by creating users (employees) and assigning them access to the files of the companies that the administrator desires.</p>
 </div>                                                             
