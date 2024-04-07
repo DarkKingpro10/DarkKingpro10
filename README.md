@@ -98,7 +98,22 @@ Just to clarify, my full name is Jesús Gerardo Esquivel Ramírez from <strong>E
 </p>
 <p>Echo Flix is an application that I was asked to make in record time to be able to have the billboard of recent movies, it is like a Netflix clone but super super, extremely far from a clone. Just taking the idea, but it was good to practice in record time with react and nextJS.</p>
 </div>                                                                                     
-</td>                                                            
+</td>
+<td width="50%">
+<h3 align="center">Codificador Reto Alura ONE</h3>
+<div align="center">
+<a href="https://github.com/DarkKingpro10/Codificador-AluraONE" target="_blank"><img src="./images/Encriptador-Alura.jpg" width="400" alt="Reto de Alura One"></a>
+<p>
+<a href="[https://github.com/DarkKingpro10/EchoTech-Exam](https://github.com/DarkKingpro10/Codificador-AluraONE)" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://codificador-alura-one-g6-jesusesquivel.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-View?style=for-the-badge&logo=google-chrome&label=View&color=yellow">
+</a>
+</p>
+<p>This project is a small challenge from the Alura ONE course to show my skills with Js and pure CSS, it is very basic.</p>
+</div>                                                                                     
+</td> 
 </table>                                                                                 
 </div>
 
