@@ -2,7 +2,7 @@
 <img src="./images/PortadaGithub.png">
 
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/DarkKingpro10?style=social)](https://github.com/DarkKingpro10)
 ![React](https://img.shields.io/badge/-React?style=flat&logo=react&label=React%20Experience%20%2B2yrs&color=gray&link=https%3A%2F%2Fes.react.dev%2F)
 ![JavaScript](https://img.shields.io/badge/JavaScript+2yrs%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-%20TypeScript?style=flat&logo=typescript&label=TypeScript%20%2B1yrs&labelColor=white&color=white)
